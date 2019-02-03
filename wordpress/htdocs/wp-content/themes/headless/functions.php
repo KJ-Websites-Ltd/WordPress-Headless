@@ -25,7 +25,7 @@
 //add_filter( 'wp_headless_rest__disable_rest_nonce_check', '__return_true' );
 
 # REST CLEANUP - see the REST Cleanup docs in plugin settings as you may want to configure this beyond default
-add_filter( 'wp_headless_rest__enable_rest_cleanup', '__return_true' );
+add_filter( 'wp_headless_rest__enable_rest_cleanup', '__return_false' );
 
 # Gutenberg - see REST Gutenberg docs as you will need to register the post types you want to use this with
 add_filter( 'wp_headless_rest__enable_rest_gutenberg_blocks', '__return_true' );
