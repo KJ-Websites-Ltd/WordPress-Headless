@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="dev" autoUploadExternalChanges="true" showEqualInSync="true" showNewOnTargetInSync="false">
-    <serverData>
-      <paths name="dev">
-        <serverdata>
-          <mappings>
-            <mapping deploy="htdocs" local="$PROJECT_DIR$/wordpress/htdocs" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-    </serverData>
+  <component name="PublishConfigData" autoUpload="Always" autoUploadExternalChanges="true" showEqualInSync="true" showNewOnTargetInSync="false">
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
