@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdb41b5a-8fed-40c0-82ef-92d68958ef19" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599120601878</updated>
       <workItem from="1599120602906" duration="158000" />
-      <workItem from="1599213369894" duration="957000" />
+      <workItem from="1599213369894" duration="1014000" />
     </task>
     <task id="LOCAL-00001" summary="Move files out of wordpress/htdocs structure to be in main directory, add readme">
       <created>1599213871957</created>
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599214185672</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update readme slightly">
+      <created>1599214343447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599214343447</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,10 +94,10 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="395" y="113" width="800" height="671" key="#Deployment/0.27.1600.873@0.27.1600.873" timestamp="1599213522602" />
-    <state x="412" y="27" width="766" height="851" key="CommitChangelistDialog2" timestamp="1599214183701">
+    <state x="412" y="27" width="766" height="851" key="CommitChangelistDialog2" timestamp="1599214338688">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="412" y="27" width="766" height="851" key="CommitChangelistDialog2/0.27.1600.873@0.27.1600.873" timestamp="1599214183701" />
+    <state x="412" y="27" width="766" height="851" key="CommitChangelistDialog2/0.27.1600.873@0.27.1600.873" timestamp="1599214338688" />
     <state x="395" y="187" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1599214188867">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
